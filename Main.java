@@ -42,7 +42,7 @@ class Main{
 		if(this.selectedMenu !=  0){
 			return this.selectedMenu;
 		}
-		System.out.println("==== Menu =======================");
+		System.out.println("==== Menu=======================");
 		System.out.println("1. Tambah Mahasiswa ");
 		System.out.println("2. Lihat Mahasiswa ");
 		System.out.println("3. Tambah Mahasiswa ");
